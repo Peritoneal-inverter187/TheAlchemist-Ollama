@@ -17,7 +17,7 @@ The new element is added to your collection and saved to a file, so you can cont
 
 - Python 3.7+
 - [Ollama](https://ollama.com/) installed and running
-- An Ollama model pulled (e.g., `gemma3:1b`)
+- An Ollama model pulled (e.g., `gemma3:12b`)
 
 ## Installation
 
@@ -27,7 +27,7 @@ The new element is added to your collection and saved to a file, so you can cont
    ```
 2. Pull the model you want to use (adjust the name if you change it in the script):
    ```bash
-   ollama pull gemma3:1b
+   ollama pull gemma3:12b
    ```
 3. Download or copy the script (`main.py`) to your local machine.
 
@@ -35,7 +35,7 @@ The new element is added to your collection and saved to a file, so you can cont
 
 Open `main.py` and adjust the following settings at the top of the file:
 
-- `MODEL`: the name of the Ollama model you want to use (e.g., `'gemma3:1b'`).  
+- `MODEL`: the name of the Ollama model you want to use (e.g., `'gemma3:12b'`).  
   Run `ollama list` in your terminal to see available models.
 - `LANGUAGE`: choose `'en'` (English), `'ru'` (Russian), or `'ua'` (Ukrainian).  
   This affects the initial elements and the prompts.

